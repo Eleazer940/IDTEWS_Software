@@ -47,17 +47,6 @@ python main.py
 
 ### Default Login Accounts
 
-- Admin
-  - Username: `admin`
-  - Password: `admin123`
-
-- Lecturer
-  - Username: `lecturer01`
-  - Password: `pass1234`
-
-- Adviser
-  - Username: `adviser01`
-  - Password: `pass1234`
 
 ### CSV Saving
 
